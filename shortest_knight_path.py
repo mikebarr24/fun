@@ -44,4 +44,4 @@ def knight(p1, p2):
     return num_moves
 
 
-print(knight("a1", "c3"))
+print(knight("a1", "e3"))
